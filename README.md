@@ -1,4 +1,4 @@
-# splash_screen
+# splash_screen - flutter_application_2
 
 A new Flutter project.
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<br>
+
+![splash_screen](https://github.com/Chamodya23/A_Splash_Screen/assets/87930614/1b6f84d1-0ceb-458d-8ba5-4cd4541299ac)
